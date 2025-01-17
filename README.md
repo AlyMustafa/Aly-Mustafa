@@ -20,7 +20,7 @@
 
 <h2>Get in Touch 📫</h2>
 <ul>
-    <li>Email: enayaa314@gmail.com</li>
+    <li>Email: alienaya335@gmail.com</li>
     <li>LinkedIn: <a href="">(https://www.linkedin.com/in/ali-mustafa-b0342b219)</a></li>
     <li>Behance: <a href="">(https://www.behance.net/alienaya)</a></li>
 </ul>
